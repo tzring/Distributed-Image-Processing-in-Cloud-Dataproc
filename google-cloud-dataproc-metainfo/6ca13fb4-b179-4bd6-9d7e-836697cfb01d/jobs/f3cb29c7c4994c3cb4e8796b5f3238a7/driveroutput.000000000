@@ -1,0 +1,20 @@
+21/03/20 19:57:38 INFO org.sparkproject.jetty.util.log: Logging initialized @4432ms to org.sparkproject.jetty.util.log.Slf4jLog
+21/03/20 19:57:38 INFO org.sparkproject.jetty.server.Server: jetty-9.4.36.v20210114; built: 2021-01-14T16:44:28.689Z; git: 238ec6997c7806b055319a6d11f8ae7564adc0de; jvm 1.8.0_282-b08
+21/03/20 19:57:38 INFO org.sparkproject.jetty.server.Server: Started @4672ms
+21/03/20 19:57:38 INFO org.sparkproject.jetty.server.AbstractConnector: Started ServerConnector@4482469c{HTTP/1.1, (http/1.1)}{0.0.0.0:42015}
+21/03/20 19:57:39 INFO org.apache.hadoop.yarn.client.RMProxy: Connecting to ResourceManager at tianzhenyv-qwiklab-m/10.128.0.3:8032
+21/03/20 19:57:39 INFO org.apache.hadoop.yarn.client.AHSProxy: Connecting to Application History server at tianzhenyv-qwiklab-m/10.128.0.3:10200
+21/03/20 19:57:40 INFO org.apache.hadoop.conf.Configuration: resource-types.xml not found
+21/03/20 19:57:40 INFO org.apache.hadoop.yarn.util.resource.ResourceUtils: Unable to find 'resource-types.xml'.
+21/03/20 19:57:42 INFO org.apache.hadoop.yarn.client.api.impl.YarnClientImpl: Submitted application application_1616270076412_0001
+21/03/20 19:57:43 INFO org.apache.hadoop.yarn.client.RMProxy: Connecting to ResourceManager at tianzhenyv-qwiklab-m/10.128.0.3:8030
+Number of files found: 3
+
+
+
+The output files can be found at gs://tianzhenyv-image-25672/out/
+Total time: 12956 milliseconds.
+
+
+
+21/03/20 19:57:59 INFO org.sparkproject.jetty.server.AbstractConnector: Stopped Spark@4482469c{HTTP/1.1, (http/1.1)}{0.0.0.0:0}
